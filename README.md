@@ -25,6 +25,7 @@ Applications and modules that uses Zend Framework 3 : components must be 2.5 or 
 * [Harmony](https://github.com/woohoolabs/harmony) - A simple and flexible PHP middleware dispatcher based on PSR-7 and PSR-11 (formerly known as Container-Interop)
 * [Humhub](http://www.humhub.org) - HumHub - Open Source Social Network 
 * [Magento](https://github.com/magento/magento2.git) - A cutting edge, feature-rich eCommerce solution that gets results.
+* [Meliscms](http://www.melistechnology.com/) - Melis CMS & Commerce is a Open Source or Enterprise web platform very ergonomic, robust, efficient.
 * [Openticket](https://github.com/carnage/opentickets.git) - Open source ticketing system
 * [Penny](http://penny.gianarb.it/) - Php Framework made of other components 
 * [Radar.Project](https://github.com/radarphp/Radar.Project) - An Action-Domain-Responder project skeleton.
